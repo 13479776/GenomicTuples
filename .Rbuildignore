@@ -1,0 +1,8 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+.travis.yml
+.Rprofile
+^tmp/
+.coveralls.R
+^CHANGELOG\.md$
+^appveyor\.yml$
